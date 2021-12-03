@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T22:24:49.751Z" agent="5.0 (Windows)" etag="Q-K6agXZfbJbZ948uUSJ" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T22:34:55.091Z" agent="5.0 (Windows)" etag="llYUfIezmGeEUnHIxnbF" version="14.6.13" type="github">
   <diagram id="8ja8eP50A3P0Qck6m7wh" name="Page-1">
-    <mxGraphModel dx="1673" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-3" value="WRS X - Pula 7000zł/rok" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="20" y="140" width="240" height="687" as="geometry">
+          <mxGeometry x="20" y="90" width="240" height="720" as="geometry">
             <mxRectangle x="40" y="80" width="170" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xNlZq4p8d5GOlLa8DZqm-4" value="2000 - narty&lt;br&gt;20-25.02." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-4" value="2000 - narty&lt;br&gt;20-25.02." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
           <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xNlZq4p8d5GOlLa8DZqm-5" value="1000 zł - bluzy&lt;br&gt;5-12.03" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-5" value="1000 zł - bluzy&lt;br&gt;5-12.03" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
           <mxGeometry x="60" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xNlZq4p8d5GOlLa8DZqm-6" value="&lt;div&gt;3000 zł - zerówka&lt;/div&gt;15-20.09" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
-          <mxGeometry x="60" y="473" width="120" height="60" as="geometry" />
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-6" value="&lt;div&gt;3000 zł - zerówka&lt;/div&gt;15-20.09" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
+          <mxGeometry x="60" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xNlZq4p8d5GOlLa8DZqm-7" value="1000 zł - wigilia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
-          <mxGeometry x="60" y="583" width="120" height="60" as="geometry" />
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-7" value="1000 zł - wigilia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
+          <mxGeometry x="60" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-17" value="Zostało 5150 zł&lt;br&gt;5000 zł prel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
           <mxGeometry x="85" y="110" width="70" height="20" as="geometry" />
@@ -27,25 +27,28 @@
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-26" value="Zostało 4650 zł&lt;br&gt;4000 prel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
           <mxGeometry x="85" y="220" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xNlZq4p8d5GOlLa8DZqm-29" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Bieg wokół wydziału&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;650 zł&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
-          <mxGeometry x="45" y="250" width="150" height="60" as="geometry" />
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-29" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Bieg wokół wydziału&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;650 zł&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
+          <mxGeometry x="45" y="260" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-30" value="&lt;div&gt;Zostało 4000 zł&lt;/div&gt;4000 prel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
-          <mxGeometry x="85" y="325" width="70" height="20" as="geometry" />
+          <mxGeometry x="82.5" y="333.5" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="xNlZq4p8d5GOlLa8DZqm-3" source="xNlZq4p8d5GOlLa8DZqm-30" target="xNlZq4p8d5GOlLa8DZqm-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xNlZq4p8d5GOlLa8DZqm-32" value="Wyjście do kina &lt;br&gt;500 zł - z zerówki" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
-          <mxGeometry x="60" y="363" width="120" height="60" as="geometry" />
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-32" value="&lt;div&gt;Wyjście do kina&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
+          <mxGeometry x="60" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-34" value="Zostało 3500 zł&lt;br&gt;4000 prel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
-          <mxGeometry x="87.5" y="433" width="65" height="20" as="geometry" />
+          <mxGeometry x="87.5" y="450" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-36" value="Zostało 1000 zł &lt;br&gt;1000 prel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
-          <mxGeometry x="90" y="543" width="60" height="20" as="geometry" />
+          <mxGeometry x="90" y="570" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xNlZq4p8d5GOlLa8DZqm-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-55" value="Wydane łącznie 6350 zł" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
+          <mxGeometry x="70" y="690" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="550" y="200" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xNlZq4p8d5GOlLa8DZqm-9">
@@ -59,7 +62,7 @@
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNlZq4p8d5GOlLa8DZqm-9" target="xNlZq4p8d5GOlLa8DZqm-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xNlZq4p8d5GOlLa8DZqm-9" value="Rozliczone na 1700 zł" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-9" value="Rozliczone na 1700 zł" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xNlZq4p8d5GOlLa8DZqm-4" target="xNlZq4p8d5GOlLa8DZqm-9">
@@ -92,7 +95,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xNlZq4p8d5GOlLa8DZqm-20" value="Nie odbył się do 12.03" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-20" value="Nie odbył się do 12.03" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="330" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xNlZq4p8d5GOlLa8DZqm-5" target="xNlZq4p8d5GOlLa8DZqm-20">
@@ -107,14 +110,14 @@
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xNlZq4p8d5GOlLa8DZqm-19" target="xNlZq4p8d5GOlLa8DZqm-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xNlZq4p8d5GOlLa8DZqm-33" value="Wniosek i rozliczenie na &lt;br&gt;2500 zł&lt;br&gt;Jako, że &lt;br&gt;kwota która została &amp;lt;= kwocie zaplanowanej &lt;br&gt;w preliminarzu, wszystko się zgadza " style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="480" width="360" height="160" as="geometry" />
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-33" value="Wniosek i rozliczenie na &lt;br&gt;2500 zł&lt;br&gt;Jako, że 500 zł było przed rozliczeniem &lt;br&gt;zawnioskowane na wyjście do kina, &lt;br&gt;środki dostępne &amp;lt;= środkom zaplanowanym w preliminarzu - bez&lt;br&gt;przeniesień" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="300" y="480" width="430" height="160" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xNlZq4p8d5GOlLa8DZqm-6" target="xNlZq4p8d5GOlLa8DZqm-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-39" value="&lt;div&gt;5650&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="320" width="40" height="20" as="geometry" />
+          <mxGeometry x="660" y="310" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-40" value="5150" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="280" width="40" height="20" as="geometry" />
@@ -122,14 +125,17 @@
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-41" value="WRS Y - Pula 2000 /rok" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="900" y="140" width="200" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="xNlZq4p8d5GOlLa8DZqm-43" value="Szkolenie&lt;br&gt;2000 zł" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-41">
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-43" value="Szkolenie&lt;br&gt;2000 zł" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-41">
           <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xNlZq4p8d5GOlLa8DZqm-44" value="Lot w kosmos&lt;br&gt;4650 zł" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-41">
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-44" value="Lot w kosmos&lt;br&gt;4650 zł" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-41">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-45" value="Zostało 0 zł" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-41">
           <mxGeometry x="80" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-56" value="Wydano łącznie 6650 zł" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-41">
+          <mxGeometry x="45" y="220" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xNlZq4p8d5GOlLa8DZqm-46" target="xNlZq4p8d5GOlLa8DZqm-44">
           <mxGeometry relative="1" as="geometry">
@@ -144,6 +150,18 @@
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-48" value="Konkurs czerwcowy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-50" value="Projekt w preliminarzu" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-51" value="LEGENDA:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-52" value="Projekt spoza preliminarza" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-53" value="Rozliczenia inne niż preliminarz" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="990" y="660" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
