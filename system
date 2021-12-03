@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T22:43:13.900Z" agent="5.0 (Windows)" etag="UL20kOa-DtociMxhVeM5" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T22:43:26.932Z" agent="5.0 (Windows)" etag="xNXRsAbYpdMmKeHoCs3K" version="14.6.13" type="github">
   <diagram id="8ja8eP50A3P0Qck6m7wh" name="Page-1">
     <mxGraphModel dx="1185" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-33" value="Wniosek i rozliczenie na &lt;br&gt;2500 zł&lt;br&gt;Jako, że 500 zł było przed rozliczeniem &lt;br&gt;wydane na wyjście do kina, &lt;br&gt;środki dostępne &amp;lt;= środkom zaplanowanym w preliminarzu - bez&lt;br&gt;przeniesień" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="270" y="460" width="430" height="160" as="geometry" />
+          <mxGeometry x="260" y="440" width="430" height="160" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xNlZq4p8d5GOlLa8DZqm-6" target="xNlZq4p8d5GOlLa8DZqm-33">
           <mxGeometry relative="1" as="geometry" />
