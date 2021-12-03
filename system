@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T22:22:18.082Z" agent="5.0 (Windows)" etag="ogwT8vaMYx5ICn6Az8sD" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T22:24:49.751Z" agent="5.0 (Windows)" etag="Q-K6agXZfbJbZ948uUSJ" version="14.6.13" type="github">
   <diagram id="8ja8eP50A3P0Qck6m7wh" name="Page-1">
     <mxGraphModel dx="1673" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-43" value="Szkolenie&lt;br&gt;2000 zł" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-41">
           <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xNlZq4p8d5GOlLa8DZqm-44" value="Lot w kosmos&lt;br&gt;5650 zł" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-41">
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-44" value="Lot w kosmos&lt;br&gt;4650 zł" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-41">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-45" value="Zostało 0 zł" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-41">
@@ -139,8 +139,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xNlZq4p8d5GOlLa8DZqm-46" value="&lt;div&gt;0 zł&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="370" width="40" height="20" as="geometry" />
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-46" value="1000 zł" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="655" y="370" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-48" value="Konkurs czerwcowy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="280" width="40" height="20" as="geometry" />
