@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T22:43:26.932Z" agent="5.0 (Windows)" etag="xNXRsAbYpdMmKeHoCs3K" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T22:57:33.732Z" agent="5.0 (Windows)" etag="4WTDRoBQ40ks6wIL4h5V" version="14.6.13" type="github">
   <diagram id="8ja8eP50A3P0Qck6m7wh" name="Page-1">
     <mxGraphModel dx="1185" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="xNlZq4p8d5GOlLa8DZqm-3" source="xNlZq4p8d5GOlLa8DZqm-30" target="xNlZq4p8d5GOlLa8DZqm-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xNlZq4p8d5GOlLa8DZqm-32" value="&lt;div&gt;Wyjście do kina&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
+        <mxCell id="xNlZq4p8d5GOlLa8DZqm-32" value="&lt;div&gt;Wyjście do kina&lt;br&gt;500 zł&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
           <mxGeometry x="60" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xNlZq4p8d5GOlLa8DZqm-34" value="Zostało 3500 zł&lt;br&gt;4000 prel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xNlZq4p8d5GOlLa8DZqm-3">
